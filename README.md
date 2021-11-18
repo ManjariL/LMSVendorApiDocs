@@ -10,7 +10,7 @@ Details of all payloads with Request and Response Params
 {
     "user_id": "",
     "tenant_id": "",
-    "term": "",
+    " search term": "",
     "comp_id": [], 
     "skill_id": [], 
     "duration": "",
@@ -70,7 +70,7 @@ Details of all payloads with Request and Response Params
 {
     user_id: "",
     tenant_id: "",
-    term: "",
+    search term: "",
     comp_id: "", // can select from dropdown list
     skill_id: "", // can select from dropdown list
     duration: "",
